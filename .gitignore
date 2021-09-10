@@ -1,2 +1,4 @@
 *.Rhistory
 *.DS_Store
+.Rproj.user
+gadm_based_shapefiles
